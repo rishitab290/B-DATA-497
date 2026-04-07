@@ -13,6 +13,7 @@ Outside of the university courses, I have been teaching myself SQL in order to a
 
 I like to travel, go anywhere near water (ocean, beach, lake, pool, etc), go on drives, working out (I just got myself into it so I still am a beginner). One picture that describes me is:
 ![Picture taken at Chelan on a trip with friends](Chelan_picture.jpeg)
+<img src="Chelan_picture.png" width="50%">
 I took this picture in June 2025 when I went on a trip for the first time with my best friend, my sister, and her friend. As you can tell, I love the water!
 
 ## Techincal Skills
