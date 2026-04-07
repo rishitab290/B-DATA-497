@@ -11,16 +11,20 @@ My name is Rishita Bonepalli, a senior who is graduting in June 2026 with a **Ba
 
 Outside of the university courses, I have been teaching myself SQL in order to also get jobs or internships in the data field. In this README Markdown file, I will be including my main skills, projects, and certifications to give an introduction about myself.
 
-## Techincal Skills
-**Languages & Scripting:** Python, SQL, Java, Bash, JavaScript, HTML, CSS, R
+I like to travel, go anywhere near water (ocean, beach, lake, pool, etc), go on drives, working out (I just got myself into it so I still am a beginner). One picture that describes me is:
+![Picture taken at Chelan on a trip with friends](Chelan_picture.jpeg)
+I took this picture in June 2025 when I went on a trip for the first time with my best friend, my sister, and her friend. As you can tell, I love the water!
 
-**Data & ML:** Pandas, JupyterLab, Statistics, PCA, Logistic Regression, Geospatial Data Analysis
+## Techincal Skills
+**Languages & Scripting:** Python, SQL, Java, JavaScript, R
+
+**Data & ML:** Pandas, JupyterLab, Statistics, Logistic Regression, Geospatial Data Analysis
 
 **Data Engineering:** ETL Pipelines, Data Modeling, Firebase
 
 **Visualization & Design:** Figma, Interactive Dashboards, Tableau, R Shiny App
 
-**Tools & Platforms:** Git, Excel, Cloud-based Deployment (Firebase), ArcGIS
+**Tools & Platforms:** Git, Excel, Cloud-based Deployment (Firebase), ArcGIS Pro
 
 ## Two Projects
 *Employment Dashboard Project*
