@@ -12,8 +12,8 @@ My name is Rishita Bonepalli, a senior who is graduting in June 2026 with a **Ba
 Outside of the university courses, I have been teaching myself SQL in order to also get jobs or internships in the data field. In this README Markdown file, I will be including my main skills, projects, and certifications to give an introduction about myself.
 
 I like to travel, go anywhere near water (ocean, beach, lake, pool, etc), go on drives, working out (I just got myself into it so I still am a beginner). One picture that describes me is:
-![Picture taken at Chelan on a trip with friends](Chelan_picture.jpeg)
-<img src="Chelan_picture.png" width="50%">
+<img src="Chelan_picture.jpeg" alt="Picture taken at Chelan on a trip with friends" width="50%" />
+
 I took this picture in June 2025 when I went on a trip for the first time with my best friend, my sister, and her friend. As you can tell, I love the water!
 
 ## Techincal Skills
