@@ -1,0 +1,15 @@
+"Call Type","TimeOfDay","Count"
+"911","Afternoon",11
+"911","Evening",7
+"911","Morning",9
+"911","Night",24
+"ALARM CALL (NOT POLICE ALARM)","Morning",1
+"ALARM CALL (NOT POLICE ALARM)","Night",1
+"ONVIEW","Afternoon",9
+"ONVIEW","Evening",2
+"ONVIEW","Morning",6
+"ONVIEW","Night",8
+"TELEPHONE OTHER, NOT 911","Afternoon",5
+"TELEPHONE OTHER, NOT 911","Evening",4
+"TELEPHONE OTHER, NOT 911","Morning",6
+"TELEPHONE OTHER, NOT 911","Night",6
